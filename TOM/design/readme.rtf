@@ -1,0 +1,190 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fnil\fcharset0 Georgia;\f1\fnil\fcharset0 LucidaGrande;}
+{\colortbl;\red255\green255\blue255;\red255\green255\blue255;\red28\green18\blue144;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid101\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid201\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{circle\}}{\leveltext\leveltemplateid202\'01\uc0\u9702 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid3}
+{\list\listtemplateid4\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid301\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid4}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}}
+\margl1440\margr1440\vieww9000\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl420\sa320\ql\qnatural
+
+\f0\b\fs48 \cf0 \cb2 Use our new, efficient False Belief Localizer\
+\pard\pardeftab720\sl420\ql\qnatural
+
+\b0\fs26 \cf0 This script will identify brain regions involved in Theory of Mind and\
+social cognition in individual participants, by contrasting activation\
+during false-belief stories, in which characters have incorrect beliefs\
+about the state of the world, with activation during false-photograph \
+stories, in which a photograph, map or sign depicts a world state that is\
+misleading or outdated. The experiment takes under 10 minutes of scan \
+time to be run in its entirety and was designed based on the item \
+analysis reported by Dodell-Feder 
+\i et al
+\i0  (in press - see {\field{\*\fldinst{HYPERLINK "http://saxelab.mit.edu/saxelab.mit.edu/publications.php"}}{\fldrslt \cf3 publications}})\
+\
+To run this script, you need Matlab and the PsychToolbox, which is available\
+as a free download.\
+\
+\pard\pardeftab720\sl420\ql\qnatural
+
+\i \cf0 Note: If you use this localizer, please credit David Dodell-Feder, Nicholas Dufour and Rebecca Saxe.
+\i0 \
+\
+\pard\pardeftab720\sl420\ql\qnatural
+
+\b\fs28 \cf0 INPUTS
+\b0\fs26  \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl420\ql\qnatural
+\ls1\ilvl0
+\b \cf0 {\listtext	\'95	}subjID
+\b0 : STRING The string you wish to use to identify the participant. "PI name"_"study name"_"participant number" is a common convention. This will be the name used to save the files.\
+\ls1\ilvl0
+\b {\listtext	\'95	}run
+\b0 : NUMBER The current run number. (e.g., 1)\
+\pard\pardeftab720\sl420\ql\qnatural
+\cf0 \
+Example usage: \
+tom_localizer("SAX_TOM_01",1)\
+\
+\pard\pardeftab720\sl420\ql\qnatural
+
+\b\fs28 \cf0 OUTPUTS
+\b0\fs26  \
+The script outputs a behavioural file into the behavioural directory.\
+This contains information about the IPS of the scan, when stories were\
+presented, reaction time, and response info. It also contains\
+information necessary to perform the analysis with SPM. The file is\
+saved as subjectID.tom_localizer.run#.m\
+\
+In the event of a crash, the script creates a running behavioural file\
+of partial data after each trial. \
+\
+
+\b\fs28 CONDITIONS
+\b0\fs26  \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl420\ql\qnatural
+\ls2\ilvl0\cf0 {\listtext	1.	}Belief (stimuli 1b to 10b)\
+{\listtext	2.	}Photo (stimuli 1p to 10p)\
+\pard\pardeftab720\sl420\ql\qnatural
+\cf0 \
+\pard\pardeftab720\sl420\ql\qnatural
+
+\b\fs28 \cf0 TIMING
+\b0\fs26  \
+The run length can be calculated according to the following:\
+\
+(blocks per run)*(fixation duration + story duration)+(fixation duration)\
+\
+The phrases used above are related to the variable values according to\
+the following:\
+\
+trials per run = trialsPerRun\
+fixation duration = fixDuration\
+story duration = storyDur\
+\
+The default configuration is:\
+\
+(10 trials per run) * (12 sec fixation + 14 sec story) + (12 sec fixation) =\
+10 * (12 + 14) + 12 = 272 seconds, 136 ips (given 2 sec TR)\
+\
+
+\b\fs28 NOTES
+\b0\fs26  \
+\pard\pardeftab720\sl420\ql\qnatural
+
+\b \cf0 Note 1
+\b0 \
+Make sure to change the inputs in the 'Variables unique to scanner/\
+computer' section of the script.\
+\
+
+\b Note 2
+\b0 \
+The use of intersect(89:92, find(keyCode)) determines if the\
+keystroke found by KbCheck is one of the proper response set. Of\
+course, these intersection values are a consequence of the workings\
+of our MRI response button. Your response button may differ. \
+Use KbCheck() to determine which button pushes from the response box\
+correspond to numbers 1:4. Otherwise, you may not retain any \
+behavioural data.\
+\
+
+\b Note 3
+\b0 \
+For simplicity, we have set up the experiment so that the order of\
+items and conditions is identical for every subject - they see\
+design 1 in run 1, with stimuli 1 - 5 form each condition, in that\
+order. In our own research, we typically counterbalance the order \
+of items within a run, and the order of designs across runs, across\
+subjects (so half of our participants see design 1 in run 2). If \
+you are comfortable enough with matlab, we encourage you to add \
+this counterbalancing back into the experiment - and make sure to \
+save separate variables for each subject tracking the order of \
+items and conditions across runs.\
+\
+\pard\pardeftab720\sl420\ql\qnatural
+
+\b\fs28 \cf0 ADVICE FOR ANALYSIS
+\b0\fs26 \
+\
+We analyze this experiment by modelling each trial as a block with a\
+boxcar lasting 14 seconds, during the whole period from the initial\
+presentation of the story to the end of the question presentation.\
+These boxcars are flanked by non-jittered rest periods of 12 seconds\
+each (the fixation duration in the script). While we have analyzed the\
+statement and question periods separately, we have found that the\
+outcomes are nearly identical, due to the BOLD signal being\
+predominantly due to participants reading and encoding the text,\
+rather than answering the questions. \
+\
+\pard\pardeftab720\sl420\ql\qnatural
+
+\b \cf0 Analysis consists of five primary steps:
+\b0 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl420\ql\qnatural
+\ls3\ilvl0\cf0 {\listtext	1.	}Motion correction by rigid rotation and translation about the 6 orthogonal axes of motion.\
+{\listtext	2.	}(optional) Normalization to the SPM template.\
+{\listtext	3.	}Smoothing, FWHM, 5 mm smoothing kernel if normalization has been performed, 8 mm otherwise.\
+{\listtext	4.	}Modeling\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl420\ql\qnatural
+\ls3\ilvl1\cf0 {\listtext	
+\f1 \uc0\u9702 
+\f0 	}Each condition in each run gets a parameter, a boxcar plot convolved with the standard HRF.\
+{\listtext	
+\f1 \uc0\u9702 
+\f0 	}The data is high pass filtered (filter frequency is 128 seconds per cycle)\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl420\ql\qnatural
+\ls3\ilvl0\cf0 {\listtext	5.	}A simple contrast and a map of t-test t values is produced for analysis in each subject. We look for activations thresholded at p < 0.001 (voxelwise) with a minimum extent threshold of 5 contiguous voxels.\
+\pard\pardeftab720\sl420\ql\qnatural
+\cf0 \
+Random effects analyses show significant results with n > 10\
+participants, though it should be evident that the experiment is\
+working after 3 - 5 individuals.\
+\
+\pard\pardeftab720\sl420\ql\qnatural
+
+\b\fs28 \cf0 SPM Parameters
+\b0\fs26  \
+If using scripts to automate data analysis, these parameters are set in\
+the SPM.mat file prior to modeling or design matrix configuration. \
+\
+SPM.xGX.iGXcalc = \{'Scaling'\} global normalization: OPTIONS:'Scaling'|'None'\
+SPM.xX.K.HParam = filter_frequency high-pass filter cutoff (secs) [Inf = no filtering]\
+SPM.xVi.form = 'none' intrinsic autocorrelations: OPTIONS: 'none'|'AR(1) + w'\
+SPM.xBF.name = 'hrf' Basis function name \
+SPM.xBF.T0 = 1 reference time bin\
+SPM.xBF.UNITS = 'scans' OPTIONS: 'scans'|'secs' for onsets\
+SPM.xBF.Volterra = 1 OPTIONS: 1|2 = order of convolution; 1 = no Volterra\
+\
+\pard\pardeftab720\sl420\sa320\ql\qnatural
+
+\b\fs48 \cf0 Download & Installation\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl420\ql\qnatural
+\ls4\ilvl0
+\b0\fs26 \cf0 {\listtext	1.	}To download the script and its associate stimuli, click {\field{\*\fldinst{HYPERLINK "http://saxelab.mit.edu/tomloc.zip"}}{\fldrslt \cf3 here}} [version: Sep 7 2011]\
+{\listtext	2.	}Extract the folder.\
+{\listtext	3.	}From within matlab, cd into the extracted folder\
+{\listtext	4.	}Type 'setup' and follow the onscreen instructions\
+}

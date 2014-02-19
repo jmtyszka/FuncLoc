@@ -1,0 +1,260 @@
+Block Order (1=alpha_cue; 2=ctrl_cue) = 2
+Block Order (1=alpha_cue; 2=ctrl_cue) = 2
+Block Order (1=alpha_cue; 2=ctrl_cue) = 1
+Block Order (1=alpha_cue; 2=ctrl_cue) = 2
+Block Order (1=alpha_cue; 2=ctrl_cue) = 1
+Block Order (1=alpha_cue; 2=ctrl_cue) = 2
+Block Order (1=alpha_cue; 2=ctrl_cue) = 1
+Block Order (1=alpha_cue; 2=ctrl_cue) = 2
+Block Order (1=alpha_cue; 2=ctrl_cue) = 1
+Block Order (1=alpha_cue; 2=ctrl_cue) = 1
+Alphabet Cues = TNJPR
+Scanner trigger received...........
+ EXPERIMENT START TIME = 1066590.417191
+word generated/key pressed for cue B at time= 1066597.226469
+word generated/key pressed for cue B at time= 1066597.712205
+word generated/key pressed for cue B at time= 1066598.298393
+word generated/key pressed for cue B at time= 1066598.817644
+word generated/key pressed for cue B at time= 1066599.370324
+word generated/key pressed for cue B at time= 1066599.973233
+word generated/key pressed for cue B at time= 1066600.542724
+word generated/key pressed for cue B at time= 1066601.095394
+word generated/key pressed for cue B at time= 1066601.681728
+word generated/key pressed for cue B at time= 1066602.234315
+word generated/key pressed for cue B at time= 1066602.786978
+word generated/key pressed for cue B at time= 1066603.373182
+word generated/key pressed for cue B at time= 1066603.875613
+word generated/key pressed for cue B at time= 1066604.428357
+word generated/key pressed for cue B at time= 1066605.014554
+word generated/key pressed for cue B at time= 1066605.567306
+word generated/key pressed for cue B at time= 1066606.136712
+word generated/key pressed for cue B at time= 1066606.689495
+word generated/key pressed for cue B at time= 1066607.225338
+word generated/key pressed for cue B at time= 1066607.778029
+word generated/key pressed for cue B at time= 1066608.380984
+word generated/key pressed for cue B at time= 1066608.916893
+word generated/key pressed for cue B at time= 1066609.486314
+word generated/key pressed for cue B at time= 1066610.055766
+word generated/key pressed for cue B at time= 1066610.642185
+word generated/key pressed for cue B at time= 1066611.161410
+
+Initial Presentation Time for Block# 1 Cue: B = 1066611.428976
+Total words generated for Block# 1 , cue B =26
+
+Time for Block# 1 : `Stop and Relax` = 1066611.445717
+
+Time elapsed for Block# 1 = 32.002501
+
+
+word generated/key pressed for cue B at time= 1066629.316643
+word generated/key pressed for cue B at time= 1066629.768820
+word generated/key pressed for cue B at time= 1066630.304680
+word generated/key pressed for cue B at time= 1066630.790457
+word generated/key pressed for cue B at time= 1066631.326379
+word generated/key pressed for cue B at time= 1066631.929468
+word generated/key pressed for cue B at time= 1066632.448561
+word generated/key pressed for cue B at time= 1066633.001225
+word generated/key pressed for cue B at time= 1066633.486952
+word generated/key pressed for cue B at time= 1066633.972744
+word generated/key pressed for cue B at time= 1066634.508821
+word generated/key pressed for cue B at time= 1066635.044512
+word generated/key pressed for cue B at time= 1066635.563775
+word generated/key pressed for cue B at time= 1066636.082939
+word generated/key pressed for cue B at time= 1066636.618835
+word generated/key pressed for cue B at time= 1066637.138179
+word generated/key pressed for cue B at time= 1066637.724293
+word generated/key pressed for cue B at time= 1066638.260191
+word generated/key pressed for cue B at time= 1066638.863185
+word generated/key pressed for cue B at time= 1066639.415817
+word generated/key pressed for cue B at time= 1066639.935201
+word generated/key pressed for cue B at time= 1066640.454251
+word generated/key pressed for cue B at time= 1066640.990250
+word generated/key pressed for cue B at time= 1066641.559866
+word generated/key pressed for cue B at time= 1066642.095680
+word generated/key pressed for cue B at time= 1066642.665086
+
+Initial Presentation Time for Block# 2 Cue: B = 1066643.418515
+Total words generated for Block# 2 , cue B =26
+
+Time for Block# 2 : `Stop and Relax` = 1066643.435255
+
+Time elapsed for Block# 2 = 31.986748
+
+
+word generated/key pressed for cue T at time= 1066661.188889
+word generated/key pressed for cue T at time= 1066661.992883
+word generated/key pressed for cue T at time= 1066663.148422
+word generated/key pressed for cue T at time= 1066664.505157
+word generated/key pressed for cue T at time= 1066665.744539
+word generated/key pressed for cue T at time= 1066667.017342
+word generated/key pressed for cue T at time= 1066668.524691
+
+ Initial presentation Time for Block# 3 Cue: T = 1066675.424803
+Total words generated for Block# 3 , cue T =7
+
+Time for Block# 3 : `Stop and Relax` = 1066675.441548
+
+Time elapsed for Block# 3 = 32.003154
+
+
+word generated/key pressed for cue B at time= 1066693.446602
+word generated/key pressed for cue B at time= 1066693.948779
+word generated/key pressed for cue B at time= 1066694.484732
+word generated/key pressed for cue B at time= 1066695.020659
+word generated/key pressed for cue B at time= 1066695.506389
+word generated/key pressed for cue B at time= 1066696.142892
+word generated/key pressed for cue B at time= 1066696.729173
+word generated/key pressed for cue B at time= 1066697.348803
+word generated/key pressed for cue B at time= 1066697.918339
+word generated/key pressed for cue B at time= 1066698.470983
+word generated/key pressed for cue B at time= 1066699.006959
+word generated/key pressed for cue B at time= 1066699.509313
+word generated/key pressed for cue B at time= 1066700.028488
+word generated/key pressed for cue B at time= 1066700.531020
+word generated/key pressed for cue B at time= 1066701.117213
+word generated/key pressed for cue B at time= 1066701.619634
+word generated/key pressed for cue B at time= 1066702.172447
+word generated/key pressed for cue B at time= 1066702.691525
+word generated/key pressed for cue B at time= 1066703.261107
+word generated/key pressed for cue B at time= 1066703.813666
+word generated/key pressed for cue B at time= 1066704.332871
+word generated/key pressed for cue B at time= 1066704.868822
+word generated/key pressed for cue B at time= 1066705.421652
+word generated/key pressed for cue B at time= 1066706.041283
+word generated/key pressed for cue B at time= 1066706.644224
+
+Initial Presentation Time for Block# 4 Cue: B = 1066707.431083
+Total words generated for Block# 4 , cue B =25
+
+Time for Block# 4 : `Stop and Relax` = 1066707.447833
+
+Time elapsed for Block# 4 = 32.004595
+
+
+word generated/key pressed for cue N at time= 1066725.452640
+word generated/key pressed for cue N at time= 1066726.206358
+word generated/key pressed for cue N at time= 1066726.909792
+word generated/key pressed for cue N at time= 1066727.646697
+word generated/key pressed for cue N at time= 1066728.634840
+
+ Initial presentation Time for Block# 5 Cue: N = 1066739.420622
+Total words generated for Block# 5 , cue N =5
+
+Time for Block# 5 : `Stop and Relax` = 1066739.437372
+
+Time elapsed for Block# 5 = 31.987934
+
+
+word generated/key pressed for cue B at time= 1066757.341796
+word generated/key pressed for cue B at time= 1066757.944834
+word generated/key pressed for cue B at time= 1066758.530884
+word generated/key pressed for cue B at time= 1066759.167473
+word generated/key pressed for cue B at time= 1066759.803726
+word generated/key pressed for cue B at time= 1066760.356366
+word generated/key pressed for cue B at time= 1066761.009598
+word generated/key pressed for cue B at time= 1066761.612526
+word generated/key pressed for cue B at time= 1066762.316070
+word generated/key pressed for cue B at time= 1066762.918988
+word generated/key pressed for cue B at time= 1066763.589040
+word generated/key pressed for cue B at time= 1066764.208779
+word generated/key pressed for cue B at time= 1066764.928746
+word generated/key pressed for cue B at time= 1066765.581982
+word generated/key pressed for cue B at time= 1066766.235134
+word generated/key pressed for cue B at time= 1066766.905030
+word generated/key pressed for cue B at time= 1066767.641965
+word generated/key pressed for cue B at time= 1066768.295231
+word generated/key pressed for cue B at time= 1066768.948437
+word generated/key pressed for cue B at time= 1066769.668555
+word generated/key pressed for cue B at time= 1066770.338533
+word generated/key pressed for cue B at time= 1066770.991720
+
+Initial Presentation Time for Block# 6 Cue: B = 1066771.426900
+Total words generated for Block# 6 , cue B =22
+
+Time for Block# 6 : `Stop and Relax` = 1066771.443662
+
+Time elapsed for Block# 6 = 32.004558
+
+
+word generated/key pressed for cue J at time= 1066789.398393
+word generated/key pressed for cue J at time= 1066790.034702
+word generated/key pressed for cue J at time= 1066790.754984
+word generated/key pressed for cue J at time= 1066791.910665
+word generated/key pressed for cue J at time= 1066792.613930
+word generated/key pressed for cue J at time= 1066793.417883
+word generated/key pressed for cue J at time= 1066794.908448
+
+ Initial presentation Time for Block# 7 Cue: J = 1066803.416443
+Total words generated for Block# 7 , cue J =7
+
+Time for Block# 7 : `Stop and Relax` = 1066803.433194
+
+Time elapsed for Block# 7 = 32.004702
+
+
+word generated/key pressed for cue B at time= 1066823.062564
+word generated/key pressed for cue B at time= 1066823.498066
+word generated/key pressed for cue B at time= 1066823.950369
+word generated/key pressed for cue B at time= 1066824.368997
+word generated/key pressed for cue B at time= 1066824.838069
+word generated/key pressed for cue B at time= 1066825.307001
+word generated/key pressed for cue B at time= 1066825.742365
+word generated/key pressed for cue B at time= 1066826.261599
+word generated/key pressed for cue B at time= 1066826.814413
+word generated/key pressed for cue B at time= 1066827.316784
+word generated/key pressed for cue B at time= 1066827.869552
+word generated/key pressed for cue B at time= 1066828.338421
+word generated/key pressed for cue B at time= 1066828.941308
+word generated/key pressed for cue B at time= 1066829.477221
+word generated/key pressed for cue B at time= 1066830.013155
+word generated/key pressed for cue B at time= 1066830.465439
+word generated/key pressed for cue B at time= 1066831.018291
+word generated/key pressed for cue B at time= 1066831.621066
+word generated/key pressed for cue B at time= 1066832.173871
+word generated/key pressed for cue B at time= 1066832.743320
+word generated/key pressed for cue B at time= 1066833.279298
+word generated/key pressed for cue B at time= 1066833.798385
+word generated/key pressed for cue B at time= 1066834.317697
+word generated/key pressed for cue B at time= 1066834.820196
+word generated/key pressed for cue B at time= 1066835.322514
+
+Initial Presentation Time for Block# 8 Cue: B = 1066835.322234
+Total words generated for Block# 8 , cue B =25
+
+Time for Block# 8 : `Stop and Relax` = 1066835.472973
+
+Time elapsed for Block# 8 = 31.987799
+
+
+word generated/key pressed for cue P at time= 1066855.454149
+word generated/key pressed for cue P at time= 1066855.990184
+word generated/key pressed for cue P at time= 1066856.526050
+word generated/key pressed for cue P at time= 1066857.196008
+word generated/key pressed for cue P at time= 1066857.765581
+word generated/key pressed for cue P at time= 1066860.076753
+
+ Initial presentation Time for Block# 9 Cue: P = 1066867.429003
+Total words generated for Block# 9 , cue P =6
+
+Time for Block# 9 : `Stop and Relax` = 1066867.445748
+
+Time elapsed for Block# 9 = 32.004596
+
+
+word generated/key pressed for cue R at time= 1066885.819061
+word generated/key pressed for cue R at time= 1066886.371733
+word generated/key pressed for cue R at time= 1066886.957943
+word generated/key pressed for cue R at time= 1066887.493842
+word generated/key pressed for cue R at time= 1066888.013079
+word generated/key pressed for cue R at time= 1066888.549237
+
+ Initial presentation Time for Block# 10 Cue: R = 1066899.418538
+Total words generated for Block# 10 , cue R =6
+
+Time for Block# 10 : `Stop and Relax` = 1066899.435287
+
+Time elapsed for Block# 10 = 31.987811
+
+
+
+Time elapsed for entire experiment= 326.003290

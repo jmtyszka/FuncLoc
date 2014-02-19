@@ -1,0 +1,185 @@
+Initial Wait 8
+# Repetitions 4
+Instruction Time:	1.000000
+Cue Duration 1
+Stimulus Duration 1
+Response Time 2
+ # of Blocks for each condition 3
+Trial Duration 7
+ Trails per Block 6
+ Fixation Duration 3
+Initial wait period 0
+Entering repetition loop t = 0.000167
+Entering block loop t = 0.000450
+Block Type t3
+Entering Trial loop 1.000892
+Word:	lawn
+Entering Trial loop 8.000227
+Word:	finger
+Entering Trial loop 15.000192
+Word:	flag
+Entering Trial loop 22.000224
+Word:	sun
+Entering Trial loop 29.000209
+Word:	soup
+Entering Trial loop 36.000225
+Word:	sofa
+Block Type t1
+Entering Trial loop 43.000179
+Word:	dirt
+Entering Trial loop 50.000189
+Word:	cargo
+Entering Trial loop 57.000225
+Word:	snow
+Entering Trial loop 64.000218
+Word:	pill
+Entering Trial loop 71.000195
+Word:	clock
+Entering Trial loop 78.000191
+Word:	brick
+Block Type t2
+Entering Trial loop 85.000226
+Word:	pipe
+Entering Trial loop 92.000192
+Word:	scale
+Entering Trial loop 99.000205
+Word:	beer
+Entering Trial loop 106.000214
+Word:	bike
+Entering Trial loop 113.000218
+Word:	hat
+Entering Trial loop 120.000227
+Word:	bench
+Entering block loop t = 126.000053
+Block Type t3
+Entering Trial loop 127.000203
+Word:	hair
+Entering Trial loop 134.000209
+Word:	rug
+Entering Trial loop 141.000202
+Word:	ring
+Entering Trial loop 148.000190
+Word:	razor
+Entering Trial loop 155.000229
+Word:	grave
+Entering Trial loop 162.000220
+Word:	ball
+Block Type t2
+Entering Trial loop 169.000212
+Word:	lake
+Entering Trial loop 176.000197
+Word:	radio
+Entering Trial loop 183.000191
+Word:	cup
+Entering Trial loop 190.000227
+Word:	coffee
+Entering Trial loop 197.000206
+Word:	chair
+Entering Trial loop 204.000179
+Word:	food
+Block Type t1
+Entering Trial loop 211.000223
+Word:	purse
+Entering Trial loop 218.000189
+Word:	word
+Entering Trial loop 225.000190
+Word:	crib
+Entering Trial loop 232.000221
+Word:	coin
+Entering Trial loop 239.000224
+Word:	tongue
+Entering Trial loop 246.000203
+Word:	oath
+Entering block loop t = 252.000038
+Block Type t3
+Entering Trial loop 253.000173
+Word:	toll
+Entering Trial loop 260.000215
+Word:	story
+Entering Trial loop 267.000202
+Word:	bird
+Entering Trial loop 274.000193
+Word:	needle
+Entering Trial loop 281.000221
+Word:	cart
+Entering Trial loop 288.000200
+Word:	brush
+Block Type t2
+Entering Trial loop 295.000200
+Word:	gun
+Entering Trial loop 302.000208
+Word:	ruler
+Entering Trial loop 309.000191
+Word:	tea
+Entering Trial loop 316.000219
+Word:	candy
+Entering Trial loop 323.000256
+Word:	cigar
+Entering Trial loop 330.000220
+Word:	gum
+Block Type t1
+Entering Trial loop 337.000228
+Word:	store
+Entering Trial loop 344.000189
+Word:	desk
+Entering Trial loop 351.000196
+Word:	carpet
+Entering Trial loop 358.000202
+Word:	card
+Entering Trial loop 365.000227
+Word:	insect
+Entering Trial loop 372.000205
+Word:	key
+Entering block loop t = 378.000054
+Block Type t3
+Entering Trial loop 379.000184
+Word:	manual
+Entering Trial loop 386.000192
+Word:	hole
+Entering Trial loop 393.000223
+Word:	fist
+Entering Trial loop 400.000212
+Word:	phone
+Entering Trial loop 407.000185
+Word:	movie
+Entering Trial loop 414.000229
+Word:	office
+Block Type t1
+Entering Trial loop 421.000199
+Word:	wood
+Entering Trial loop 428.000187
+Word:	golf
+Entering Trial loop 435.000180
+Word:	face
+Entering Trial loop 442.000178
+Word:	pan
+Entering Trial loop 449.000198
+Word:	hammer
+Entering Trial loop 456.000198
+Word:	taxi
+Block Type t2
+Entering Trial loop 463.000184
+Word:	auto
+Entering Trial loop 470.000191
+Word:	pool
+Entering Trial loop 477.000195
+Word:	plane
+Entering Trial loop 484.000188
+Word:	fork
+Entering Trial loop 491.000188
+Word:	wine
+Entering Trial loop 498.000216
+Word:	song
+Time Elapsed 504.000174
+ Block type 3
+ Block type 3
+ Block type 3
+ Block type 3
+ Block type 1
+ Block type 2
+ Block type 2
+ Block type 1
+ Block type 2
+ Block type 1
+ Block type 1
+ Block type 2
