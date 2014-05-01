@@ -2,10 +2,10 @@ prac	Tier
 prac	Boot
 prac	Auto
 prac	Hund
-prac	Tür
+prac	Tuer
 prac	Herd
 prac	Pullover
-prac	Löwe
+prac	Loewe
 prac	Musik
 prac	Biene
 prac	Brot
@@ -18,6 +18,6 @@ prac	Entscheidung
 prac	Paket
 prac	Geld
 prac	Kerze
-prac	Schlüssel
+prac	Schluessel
 prac	Fisch
 prac	Geist

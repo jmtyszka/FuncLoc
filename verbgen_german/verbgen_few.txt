@@ -1,5 +1,5 @@
 few	Schnaps
-few	Maßstab
+few	Massstab
 few	Text
 few	Pistole
 few	Fahrrad
@@ -45,7 +45,7 @@ few	Flugzeug
 few	Tor
 few	Radio
 few	Pool
-few	Süßigkeiten
+few	Suessigkeiten
 few	Lebensmittel
 few	Kaugummi
 few	Drachen
@@ -57,7 +57,7 @@ few	Buch
 few	Pony
 few	Milch
 few	Hut
-few	Flügel
+few	Fluegel
 few	Bier
 few	Samen
 few	Bank

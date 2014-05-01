@@ -26,10 +26,10 @@ Read	Kissen
 Read	Teich
 Read	Vogel
 Read	Handschuh
-Read	Café
+Read	Cafe
 Read	Wagen
 Read	Spiegel
-Read	Gürtel
+Read	Guertel
 Read	Film
 Read	Taktstock
 Read	Boden
@@ -39,7 +39,7 @@ Read	Ruder
 Read	Rasierer
 Read	Grab
 Read	Geschichte
-Read	Büro
+Read	Buero
 Read	Hemd
 Read	Faust
 Read	Kuchen
