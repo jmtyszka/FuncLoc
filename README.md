@@ -5,5 +5,8 @@ For the latest implementation of the False Belief Localizer please see [Bob Spun
 
 | Localizer | Directory | Description |
 |-----------|-----------|-------------|
-|           |           |             |
+| Fusiform Face Area | FFA | Faces-Houses contrast |
+| False Belief / Theory of Mind | TOM | Superceded by [Bob Spunt's implementation](https://github.com/spunt/falsebelieflocalizer) |
+
+
 
