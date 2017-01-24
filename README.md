@@ -7,7 +7,7 @@ For the latest implementation of the False Belief Localizer please see [Bob Spun
 |-----------|-----------|-------------|
 | Fusiform Face Area | FFA | Faces-Houses contrast |
 | False Belief / Theory of Mind | TOM | Superceded by [Bob Spunt's implementation](https://github.com/spunt/falsebelieflocalizer) |
-| | LOI | |
+| Levels of Inference | LOI | Bob Spunt's why/how task |
 | | MID | |
 | | MSIT | |
 
