@@ -10,6 +10,9 @@ For the latest implementation of the False Belief Localizer please see [Bob Spun
 | Levels of Inference | LOI | Bob Spunt's why/how task |
 | | MID | |
 | | MSIT | |
+| | Paced_Fingers | |
+| | SAT | |
+| | LOM | |
 
 
 
