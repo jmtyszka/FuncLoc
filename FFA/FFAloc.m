@@ -73,6 +73,8 @@ end
 % % [w1.window] = Screen('Openwindow', 0, [128 128 128],[0 0 100 100]);
 % % [w2.window] = Screen('Openwindow', 0, [128 128 128],[120 120 220 220]);
 
+Screen('Preference', 'SkipSyncTests', 1)
+
 screens=Screen('Screens');
 screenNumber=max(screens);
 [w1] = initialize_screen(screenNumber,[128 128 128]);
